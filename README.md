@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style={display:flex}>
-<a href="https://instagram.com/asadullohbek05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadullohbek05" height="40" width="40" /></a>
+<a href="https://instagram.com/asadullohbekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asadullohbek05" height="40" width="40" /></a>
 &nbsp &nbsp
 <a href="https://t.me/Asadullohbek" target="_blank"><img align="center" src="https://github.com/sanjarbarakayev/sanjarbarakayev/blob/master/img/socials/telegram.png" alt="asadullohbek05" height="40" width="40" /></a>
 &nbsp &nbsp

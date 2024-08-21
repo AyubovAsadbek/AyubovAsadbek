@@ -28,7 +28,7 @@
 &nbsp &nbsp
 <a href="https://t.me/Asadullohbek" target="_blank"><img align="center" src="https://github.com/sanjarbarakayev/sanjarbarakayev/blob/master/img/socials/telegram.png" alt="asadullohbek05" height="40" width="40" /></a>
 &nbsp &nbsp
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asadbek-asadbek-144719270/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asadbek-asadbek-144719270/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/asadbek-asadbek-144719270/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="40" /></a>
 &nbsp &nbsp
 <a href="http://asadullohdev.uz/" target="_blank"><img align="center" src="https://github.com/sanjarbarakayev/sanjarbarakayev/blob/master/img/socials/web.png" alt="https://www.linkedin.com/in/asadbek-asadbek-144719270/" height="40" width="40" /></a>
 </p>
